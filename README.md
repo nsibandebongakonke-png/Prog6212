@@ -37,7 +37,7 @@ The system supports two distinct roles, which will be enforced throughout all pa
 
 ---
 
-## 🛠️ Technology Stack (Part 1)
+##  Technology Stack (Part 1)
 
 - **Database**: Microsoft SQL Server (2022)
 - **Diagramming**: Draw.io / Lucidchart (ERD exported as PNG/PDF)
