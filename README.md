@@ -74,17 +74,17 @@ Follow these steps to run the SQL script and build the database locally:
    git clone https://github.com/nsibandebongakonke-png/raceday-poe.git
    cd raceday-poe
 
-   🎥 Video Presentation
+    Video Presentation
 A video walkthrough is required for this submission. It demonstrates the ERD, explains the database schema logic, and walks through the API endpoint plan.
 
-Link: https://youtu.be/hHugc2lrGRI
+Link: https://youtu.be/hHugc2lrGRI(Youtube unlisted video)
 
 - Future Development (Parts 2 & 3)
 Part 2: Implementation of the RESTful API using Node.js/Python/C# (backend logic, JWT authentication, role-based access control).
 
 Part 3: Full-stack integration with a modern frontend framework (React/Vue), containerisation with Docker, and deployment to a cloud platform (Azure/AWS).
 
-👤 Author
+ Author
 Student Name: [Bongakonke Nsibande]
 
 Student Number: [[ST10493442]]
@@ -93,5 +93,5 @@ Course: [PROG6212]
 
 Institution: [Rosebank]
 
-📝 License
+ License
 This project is submitted for academic assessment purposes as part of the Portfolio of Evidence.
