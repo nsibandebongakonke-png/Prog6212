@@ -74,7 +74,7 @@ Follow these steps to run the SQL script and build the database locally:
    git clone https://github.com/nsibandebongakonke-png/raceday-poe.git
    cd raceday-poe
 
-    Video Presentation
+    Video Presentation ://youtu.be/hHugc2lrGRI
 A video walkthrough is required for this submission. It demonstrates the ERD, explains the database schema logic, and walks through the API endpoint plan.
 
 Link: https://youtu.be/hHugc2lrGRI(Youtube unlisted video)
